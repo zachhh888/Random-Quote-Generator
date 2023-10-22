@@ -4,6 +4,6 @@ This project allows a random Donald Trump quote to be generated from an input te
 
 The languages used for this project include:
 
-Javascript
-html
-CSS
+-Javascript
+-html
+-CSS
